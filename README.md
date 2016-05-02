@@ -46,7 +46,7 @@ Add some more Yacht Rock hits by sending a POST to the API:
 ![add-data](https://cloud.githubusercontent.com/assets/1610195/6087223/e8db0ff4-ae16-11e4-88df-21da20b614f0.png)
 
 
-Final
+Lastly
 ----
 
 This setup is a decent starting place to play around with Node.js, Sails.js, and React.js.
