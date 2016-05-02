@@ -1,4 +1,4 @@
-# Yacht Rock: React on a Boat
+# React on a Boat
 
 [React](http://facebook.github.io/react/) on [Sails](http://sailsjs.org/).
 
